@@ -1,6 +1,6 @@
 
-### :information_desk_person: Hi! JeongIn's Github
-:cherries:
+### :cherries: Hi! JeongIn's Github
+
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>

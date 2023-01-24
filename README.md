@@ -18,7 +18,11 @@
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)
 <br/><br/><br/>
-### ✨ GitHub stats ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vL4dy&show_icons=true&theme=radical)
+
+<h3 align="center">🌟 My Github Stats 🌟</h3>
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 </div>
 

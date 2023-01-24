@@ -1,6 +1,6 @@
 
-### :hand: Hi! JeongIn's Github
-
+### :information_desk_person: Hi! JeongIn's Github
+:cherries:
 <div align="center">
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
-### 💻 Tech Stacks 🛠
+### 💻 Tech Stacks v
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="JQuery" src ="https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white"/><br/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)

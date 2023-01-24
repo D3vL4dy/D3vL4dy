@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>
   <a href="https://www.notion.so/f72bb3a02d6545509e83aa953fbc885d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="mailto:jikang1218@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Email&logoColor=white&link=jikang1218@naver.com"/></a>
+  <a href="mailto:jikang1218@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jikang1218@naver.com"/></a>
 </p>
 <br/></br>
 

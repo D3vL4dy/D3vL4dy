@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)
+<br/><br/><br/>
+</div>
 <br/></br>
 
 ### 🌈 Follow Me 🌈
@@ -31,6 +35,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vL4dy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)
-<br/><br/><br/>
-</div>
+

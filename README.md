@@ -17,12 +17,9 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
+  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/T%20story-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
   <a href="mailto:jikang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
-[![Tstory Badge](https://img.shields.io/badge/-Tstory-92a8d1?logo=Velog&logoColor=white&link=https://yeacoding.tistory.com/)](https://muki-soko.tistory.com/)
-[![Notion Badge](https://img.shields.io/badge/-Notion-92a8d1?logo=notion&logoColor=white&link=https://gabby-plywood-978.notion.site/cf4a77a5542e45aabd056fde34494cc2)](https://gabby-plywood-978.notion.site/cf4a77a5542e45aabd056fde34494cc2)
-<br/></br></br>
 
 <h3 align="center">🌟 My Github Stats 🌟</h3>
 <div align="center">

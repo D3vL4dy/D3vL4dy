@@ -1,7 +1,7 @@
 
 ## 🍒 JeongIn's Github!
 
-<h3 align="center">💻 Tech Stack 💻</h3>
+### 💻 Tech Stack 💻
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -15,7 +15,7 @@
 </p>
 <br/></br>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+### 🌈 Follow Me 🌈
 <p align="center">
   <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>
   <a href="https://www.notion.so/f72bb3a02d6545509e83aa953fbc885d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -24,10 +24,11 @@
 <br/></br>
 
 
-<h3 align="center">🌟 My Github Stats 🌟</h3>
+### 🌟 My Github Stats 🌟
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vL4dy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&hide=SCSS)](https://github.com/D3vL4dy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)
+<br/><br/><br/>

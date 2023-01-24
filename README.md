@@ -17,7 +17,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/T%20story-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
+  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
   <a href="mailto:jikang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <br/></br>

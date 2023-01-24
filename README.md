@@ -1,18 +1,7 @@
 
-### :hand: Hi! there Welcome MoonSeok's Github
-<div align=left>
-:raising_hand:<b>MoonSeok</b>:raising_hand:
-</div><br>
-<div align=left>
-<a href="[https://third-pegasus-acd.notion.site/command-b2edb00a103f4f099d400a42f59325be](https://third-pegasus-acd.notion.site/MoonSeok-s-Portfolio-c040dd3d53484683ba2c3a6eb50f4c51)"><img src="https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://third-pegasus-acd.notion.site/MoonSeok-s-Portfolio-c040dd3d53484683ba2c3a6eb50f4c51"><img src="https://img.shields.io/badge/-Notion-0d1117?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="mailto:jmh4228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-f38616?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</div>
-</br>
-[![MoonSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangmoonseok)](https://github.com/jangmoonseok/github-readme-stats)
-<div align=left>  
-:pencil2:<b>I've Used</b>:pencil2:
-</div><br>
+### :hand: Hi! JeongIn's Github
+
+
 <div align=left>
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -30,4 +19,3 @@
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangmoonseok&hide=SCSS)](https://github.com/jangmoonseok/github-readme-stats)

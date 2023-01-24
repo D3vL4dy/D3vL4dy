@@ -1,9 +1,9 @@
 
-### :cherries: Hi! JeongIn's Github
-
+<div align="center">
+## :cherries: Hi! JeongIn's Github
+</div>
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>

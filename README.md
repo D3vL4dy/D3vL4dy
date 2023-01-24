@@ -9,16 +9,16 @@
   <img src="https://img.shields.io/badge/-CSS-31572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 <br/></br>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/T%20story-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
-  <a href="mailto:jikang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://d3vl4dy.tistory.com/"><img src="https://img.shields.io/badge/T%20story-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://d3vl4dy.tistory.com/"/></a>&nbsp
+  <a href="mailto:jikang@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 <br/></br>
 

@@ -16,9 +16,6 @@
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3vL4dy&layout=compact)](https://github.com/D3vL4dy/github-readme-stats)
-<br/></br>
-
 ### 🌈 Follow Me 🌈
 <p align="center">
   <a href="https://develhope.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://develhope.tistory.com/"/></a>

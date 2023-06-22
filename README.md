@@ -2,7 +2,7 @@
 ## 🍒 JeongIn's Github!
 <div align=center>
 
-### 💻 Tech Stack 💻
+### 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -16,18 +16,11 @@
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
 </p>
 
-### 🌈 Follow Me 🌈
+### 🌈 Follow Me
 <p align="center">
   <a href="https://develhope.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://develhope.tistory.com/"/></a>
   <a href="https://www.notion.so/f72bb3a02d6545509e83aa953fbc885d" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <a href="mailto:jikang1218@naver.com"><img src="https://img.shields.io/badge/Mail-2496ED?style=for-the-badge&logo=Gmail&logoColor=white&link=jikang1218@naver.com"/></a>
 </p>
 <br/></br>
-
-### 🌟 My Github Stats 🌟
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3vL4dy&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 </div>

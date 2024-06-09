@@ -1,5 +1,5 @@
 
-## 🍒 JeongIn's Github!
+## JeongIn's Github!
 <div align=center>
 
 ### 💻 Tech Stack

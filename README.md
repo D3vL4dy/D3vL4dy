@@ -24,7 +24,7 @@
   
   <div align=center>
     <a href="https://develhope.tistory.com/"><img src="https://img.shields.io/badge/Tstory-11B48A?style=for-the-badge&logo=Tistory&logoColor=white&link=https://develhope.tistory.com/"/></a>
-    <a href="[https://www.notion.so/f72bb3a02d6545509e83aa953fbc885d](https://bit.ly/3VSxAev)" target="_blank"><img src="https://img.shields.io/badge/-Notion-0d1117?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="https://bit.ly/3VSxAev" target="_blank"><img src="https://img.shields.io/badge/-Notion-0d1117?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="mailto:kangji1218@kakao.com"><img src="https://img.shields.io/badge/-Gmail-f38616?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </div>
 
